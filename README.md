@@ -5,7 +5,7 @@ Look for comments like this one to guide you on what to fill in.
 
 <!-- 1. PROJECT LOGO: Replace this with a link to your project's logo. You can create one easily on sites like Canva. -->
 <p align="center">
-  <a href="https://github.com/debjitttdasss/AOODP-PROJECT">
+  <a href="https://github.com/rosdebbu/AOODP-PROJECT">
     <img src="https://via.placeholder.com/200" alt="Project Logo" width="200" height="200">
   </a>
 </p>
